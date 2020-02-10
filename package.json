@@ -1,0 +1,23 @@
+{
+  "name": "slidesvg",
+  "version": "1.0.0",
+  "description": "Apresentação sobre o \"SVG: Um olhar além de meras formas\".",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/joaopedromoraes/slide-svg"
+  },
+  "keywords": [
+    "svg",
+    "frontend",
+    "shapes"
+  ],
+  "author": "João Pedro Moraes",
+  "license": "MIT",
+  "dependencies": {
+    "webslides": "^1.5.0"
+  }
+}
